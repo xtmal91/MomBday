@@ -1,0 +1,193 @@
+/*Styles for Mom Birthday 2022*/
+
+
+
+
+.bothHead{
+	background: rgb(34,193,195);
+	background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,237,45,0.6417306424522935) 100%);
+	border: inset rebeccapurple 1em;
+	margin-top: 0;
+}
+
+.header1{
+	display: grid;
+	justify-content: center;
+	text-align: center;
+	font-family: 'Moon Dance', cursive;
+	font-size: 3em;
+	font-weight: bold;
+	color: rebeccapurple;
+	text-decoration: underline;
+	
+}
+
+.header2{
+	display: grid;
+	justify-content: center;
+	text-align: center;
+	font-family: 'Moon Dance', cursive;
+	font-size: 2.5em;
+	color: rebeccapurple;
+	padding: 0, 1.5%, 1%, 1.5%;
+}
+
+.h22{
+	margin-top: 0;
+}
+
+/*.container{
+	margin: 0;
+	padding: 0;
+	display: grid;
+}*/
+
+/*.videos1{
+	background: rgb(236,241,15);
+background: linear-gradient(36deg, rgba(236,241,15,1) 17%, rgba(170,120,223,1) 76%);
+display: grid;
+grid-template-columns: auto;
+grid-template-rows: 1fr;
+
+}
+*/
+
+
+.explain{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+	padding: 1%;
+	text-align: center;
+	font-family: Luxurious Roman;
+
+}
+
+.explain-wrap{
+	border: solid black 5px;
+}
+
+
+.clickOn{
+	display: flex;
+	justify-content: center;
+	font-size: 1em;
+	font-weight: bold;
+	padding: .5%;
+	margin: 0%;
+}
+
+
+
+.between{
+margin-top:0%;
+display:grid;
+grid-template-columns: 1fr 1fr;
+grid-column-gap: 1%;
+justify-content: center;
+align-items: center;
+text-align: center;
+background: rgb(242,167,18);
+background: linear-gradient(36deg, rgba(242,167,18,1) 16%, rgba(29,21,119,1) 64%);
+color: rgb(165, 248, 0);
+font-family: Luxurious Roman;
+font-size: 1.5em;
+font-weight: bold;
+padding-left: 5%;
+padding-right: 5%;
+border: dashed rgb(165, 248, 0) .2em;
+}
+
+.smokeyPic{
+	width: 60%;
+}
+
+.paragraph1{
+	display: grid;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+	justify-items: center;
+	vertical-align: middle;
+	border-left: solid black 5px;
+	padding: 1%;
+
+}
+
+.between2{
+	text-align: center;
+	background: rgb(242,167,18);
+background: linear-gradient(36deg, rgba(242,167,18,1) 16%, rgba(29,21,119,1) 64%);
+color: rgb(165, 248, 0);
+margin:0;
+padding:1%;
+font-family: Luxurious Roman;
+border: dashed rgb(165, 248, 0) .25em;
+}
+
+
+
+.hope{
+	margin:0;
+	padding-top: 1%;
+}
+
+.hope1{
+	margin:0;
+	padding-bottom: 1%;
+}
+
+.art{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgb(43, 70, 113);
+	margin: 0;
+}
+
+.drawing{
+	border: groove slategrey 1em;
+}
+
+.preFooter{
+	background-color: rgb(43, 70, 113);
+	color:rgb(44, 137, 44);
+	text-align: center;
+	margin: 0;
+	border: groove 1em rgb(44, 137, 44);
+}
+
+.endWords{
+	margin: 0;
+	padding: 1%;
+	font-size: 1.5em;
+	font-weight: bold;
+	font-family: Luxurious Roman;
+}
+
+.foot{
+	font-family: 'Moon Dance', cursive;
+	text-align: center;
+	font-size: 1em;
+	margin: 0;
+	padding: 1%;
+	font-family: permanent marker;
+	background-color: #5E6377;
+	color: #0EC10E;
+	display: flex;
+	justify-content: flex-end;
+
+}
+
+.madeBy{
+	margin: 0;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    overflow: auto;
+    
+}
